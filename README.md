@@ -3,6 +3,9 @@
 # This is the  "Post" project in react. It is the react project NO.: 6 .
 # The name of the folder is crud-toolkit which should be Post_react_6, however the previous name was kept.
 
+# website:
+#   "homepage": "https://samisny.github.io/Post_Proj_react_1_js/"
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
