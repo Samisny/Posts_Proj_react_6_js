@@ -4,7 +4,7 @@
 # The name of the folder is crud-toolkit which should be Post_react_6, however the previous name was kept.
 
 # website:
-#   "homepage": "https://samisny.github.io/Post_Proj_react_1_js/"
+#   "homepage": "https://samisny.github.io/Posts_Proj_react_6_js/"
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
