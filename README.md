@@ -1,10 +1,10 @@
-# Getting Started with Create React App
+# Posts Project in react
+## website:
+###   "homepage": "https://samisny.github.io/Posts_Proj_react_6_js/"
 
-# This is the  "Post" project in react. It is the react project NO.: 6 .
-# The name of the folder is crud-toolkit which should be Post_react_6, however the previous name was kept.
+## This is the  "Post" project in react. It is the react project NO.: 6 .
 
-# website:
-#   "homepage": "https://samisny.github.io/Posts_Proj_react_6_js/"
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
